@@ -1,4 +1,4 @@
-# shell_url_shortener
+# shell url shortener
 Little python script to be called from the shell to quickly shorten any url, using pyshorteners
 
 
